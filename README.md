@@ -7,13 +7,13 @@ Help small businesses around India to grow their sales using Internet.
 
 # Businesses List:
 
-Chaiwala
-Water delivery man
-Pan Wala
-Local Grossery store
-e - rickshaw booking
-Nearby Resturant
-Laundry
-Stationary store
-Milkman
-Handicraft Makers
+* Chaiwala
+* Water delivery man
+* Pan Wala
+* Local Grossery store
+* e - rickshaw booking
+* Nearby Resturant
+* Laundry
+* Stationary store
+* Milkman
+* Handicraft Makers
