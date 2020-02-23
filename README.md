@@ -77,7 +77,7 @@ Help small businesses around India to grow their sales using Internet.
  * Catch Up on Unfinished work
  
  
-## Project Management Stages: ##
+## Project Stages: ##
 
  * Stage 1: Ideation/Requirement
  * Stage 2: Business Analysis
