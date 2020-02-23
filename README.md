@@ -56,4 +56,23 @@ Help small businesses around India to grow their sales using Internet.
 ## 5 - Days sprint: ##
 
 ### Day1: ###
+
+ * Under your business model(Follow Business canvas)
+   ![Image description](https://i.pinimg.com/564x/a5/ae/cb/a5aecbfd2d28e64c74cba1cdc68c47fd.jpg)
+
+### Day2: ###
+
+ * Create User story diagram(User Persona)
+
+### Day3: ###
+
+ * Create All Secondary Screens and finalize user story
+
+### Day4: ###
+
+ * Prepare design
+
+### Day5: ###
+
+ * Catch Up on Unfinished work
   
