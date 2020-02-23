@@ -20,3 +20,8 @@ Help small businesses around India to grow their sales using Internet.
 # Process followed by every businesses who have their products to sell:
 
 ![Image description](https://i.pinimg.com/564x/f0/de/ec/f0deec8659fbcce21ddae482cf0cc2a9.jpg)
+
+
+# For Other businesses:
+
+![Image description](https://i.pinimg.com/564x/f5/e2/8d/f5e28d1fbe23ae37c73c517c2ec9c62f.jpg)
