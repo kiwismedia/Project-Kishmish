@@ -25,3 +25,30 @@ Help small businesses around India to grow their sales using Internet.
 # For Other businesses:
 
 ![Image description](https://i.pinimg.com/564x/f5/e2/8d/f5e28d1fbe23ae37c73c517c2ec9c62f.jpg)
+
+
+
+
+
+
+# Basic features:
+
+  * User Verification
+  * Dashboard of product
+  * Notification
+  * Search page
+  * Filter
+  * Payment gateway integration
+  * In - App Calling 
+  * Chat for any query
+  * Messaging
+  * Voice control 
+  * Map Integration
+  * Ads Integration
+  * Cart Management
+  * CheckOut
+  * Order History
+  * Wishlist 
+  * Product Reviews
+  * Social Media Integration
+  
