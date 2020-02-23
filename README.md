@@ -75,4 +75,23 @@ Help small businesses around India to grow their sales using Internet.
 ### Day5: ###
 
  * Catch Up on Unfinished work
+ 
+ 
+## Project Management Stages: ##
+
+ * Stage 1: Ideation/Requirement
+ * Stage 2: Business Analysis
+ * Stage 3: Project Management
+ * Stage 4: Quality Assurance
+ 
+## Agile Methodelogy Stages: ##
+ 
+ * Stage 1: Requirement
+ * Stage 2: Wireframing
+ * Stage 3: Design
+ * Stage 4: Development
+ * Stage 5: Testing
+ * Stage 6: Deployment
+ * Stage 7: Review
+ 
   
