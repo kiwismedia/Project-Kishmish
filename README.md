@@ -3,8 +3,6 @@ Help small businesses around India to grow their sales using Internet.
 
 ![Image description](https://i.pinimg.com/564x/0b/c2/e6/0bc2e6ed322759aef423a3af98da5f03.jpg)
 
-
-
 # Businesses List:
 
 * Chaiwala
@@ -17,3 +15,8 @@ Help small businesses around India to grow their sales using Internet.
 * Stationary store
 * Milkman
 * Handicraft Makers
+
+
+# Process followed by every businesses who have their products to sell:
+
+![Image description](https://i.pinimg.com/564x/f0/de/ec/f0deec8659fbcce21ddae482cf0cc2a9.jpg)
