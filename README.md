@@ -7,14 +7,16 @@ Help small businesses around India to grow their sales using Internet.
 
 * Chaiwala
 * Water delivery man
-* Pan Wala
+* Pan Shop
 * Local Grossery store
 * e - rickshaw booking
-* Nearby Resturant
-* Laundry
+* Restaurant Chain
+* Laundry Service
 * Stationary store
 * Milkman
 * Handicraft Makers
+* Grocery Vendor
+* Salon
 
 
 ## Process followed by every businesses who have their products to sell: ##
