@@ -1,9 +1,21 @@
 # Project-Kishmish
-Anyone who have started their business or planning to start, they can use apps to increase their sales. 
+
+In the era of Internet where you will rarely able to find anyone who has not smartphone in their hand. So, by taking advantage of this, we are helping anyone who have started their business or planning to start, they can use apps to increase their sales. And, this is not only for business oriented peoples. Here, we also encourage and help those people who have ability to handicraft something or build something. They can also earn money by selling their items online.
 
 How?
 
 Let's understand,
+
+Day by day, India is becoming a country of billions of smartphone users. By, using this insight, if a business who sell something. For example, Sweets. 
+
+They have to just list different types of sweets, snacks, etc into an app. And, advertise that app in their area that anyone who want to taste sweets while seating at home, just install this Sweets App and taste your favourite sweets.
+
+And they can also allow customers to pay money digitally to encourage digital India mission by PM Modi. Or they can pay by cash also.
+
+
+
+
+
 
 
 
