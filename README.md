@@ -135,15 +135,21 @@ And they can also allow customers to pay money digitally to encourage digital In
 ### Step 1. Comman Features
 
 -- User login/registration
+
 -- App OnBoarding
+
 -- Splash Screen
+
 -- User Dashboard
 
 ### Step 2. Wireframing & Design in general context
 
 -- User's persona
+
 -- User App Flow Diagram
+
 -- UML(Unified Modeling Language)
+
 -- User Interface Design
 
 ### Step 3. Database according to user segment
@@ -159,17 +165,21 @@ And they can also allow customers to pay money digitally to encourage digital In
 ### Step 4. Testing(Manual & Automated)
 
 -- Alpha Testing(Friends)
+
 -- Beta(Email lists testor)
+
 -- Production(Publish)
 
 ### Step 5. Deployment
 
 -- Publish on App Store/Play Store/Amazone App Store
+
 -- Host(If Web App)
 
 ### Step 5. Maintainance
 
 -- Customer Support
+
 -- Bug Fixing
 -- Crash Fixing
 
