@@ -14,14 +14,6 @@ And they can also allow customers to pay money digitally to encourage digital In
 
 
 
-
-
-
-
-
-
-
-
 ![Image description](https://i.ibb.co/NyMB2rw/project-Kishmish-Logo.jpg)
 
 ## Businesses List: ##
