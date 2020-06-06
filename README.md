@@ -72,7 +72,7 @@ And they can also allow customers to pay money digitally to encourage digital In
 
 ### Day1: ###
 
- * Under your business model(Follow Business canvas)
+ * Understand your business model(Follow Business canvas)
    ![Image description](https://i.pinimg.com/564x/a5/ae/cb/a5aecbfd2d28e64c74cba1cdc68c47fd.jpg)
 
 ### Day2: ###
@@ -108,5 +108,7 @@ And they can also allow customers to pay money digitally to encourage digital In
  * Stage 5: Testing
  * Stage 6: Deployment
  * Stage 7: Review
+ 
+ 
  
   
