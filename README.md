@@ -1,5 +1,14 @@
 # Project-Kishmish
-Help small businesses around India to grow their sales using Internet.
+Anyone who have started their business or planning to start, they can use apps to increase their sales. 
+
+How?
+
+Let's understand,
+
+
+
+
+
 
 ![Image description](https://i.ibb.co/NyMB2rw/project-Kishmish-Logo.jpg)
 
