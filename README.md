@@ -30,6 +30,8 @@ And they can also allow customers to pay money digitally to encourage digital In
 * Handicraft Makers
 * Grocery Vendor
 * Salon
+* Pharmacy App
+
 
 
 ## Process followed by every businesses who have their products to sell: ##
