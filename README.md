@@ -31,6 +31,7 @@ And they can also allow customers to pay money digitally to encourage digital In
 * Grocery Vendor
 * Salon
 * Pharmacy App
+* Tutor
 
 
 
